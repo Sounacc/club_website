@@ -171,7 +171,6 @@ section{
     margin-bottom: 1.5rem;
 }
 .about.banner_section,.team .banner_section,.gallery .banner_section,.contact .banner_section{
-    background: url('/IMAGES/background.mp4');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -472,7 +471,7 @@ section{
   padding: 9rem 28rem;
 }
 .landing_about_section p{
-  font-size: 3.8rem;
+  font-size: 2.2rem;
   color: var(--primary-text);
   margin-top: 2rem;
   margin-bottom: 2rem;
